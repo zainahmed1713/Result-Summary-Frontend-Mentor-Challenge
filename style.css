@@ -39,8 +39,8 @@ body {
 .result-heading {
     font-size: 1.5rem;
     opacity: 0.6;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 25px;
+    margin-bottom: 30px;
 }
 
 .score-circle {
@@ -55,7 +55,7 @@ body {
 }
 
 .score-heading {
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 .score-out-of {
@@ -64,7 +64,7 @@ body {
 
 .remarks {
     font-size: 2rem;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .remarks-para {
