@@ -39,15 +39,15 @@ body {
 .result-heading {
     font-size: 1.5rem;
     opacity: 0.6;
-    margin-top: 25px;
-    margin-bottom: 30px;
+    margin-top: 15px;
+    margin-bottom: 20px;
 }
 
 .score-circle {
     display: flex;
     flex-direction: column;
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 130px;
     align-items: center;
     justify-content: center;
     background-image: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
@@ -55,7 +55,7 @@ body {
 }
 
 .score-heading {
-    font-size: 4rem;
+    font-size: 3.5rem;
 }
 
 .score-out-of {
@@ -64,13 +64,13 @@ body {
 
 .remarks {
     font-size: 2rem;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .remarks-para {
     opacity: 0.6;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 .right-side {
@@ -125,6 +125,7 @@ body {
 
 .visual-category {
     background-color: hsl(234, 85%, 96%);
+    margin-bottom: 0;
 
 }
 
@@ -167,7 +168,8 @@ body {
 .btn {
     width: 90%;
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
     margin-left: 20px;
     background-color: hsl(224, 30%, 27%);
     font-size: 16px;
